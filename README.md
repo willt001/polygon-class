@@ -1,0 +1,1 @@
+A Python class to represent a 2-dimensional polygon as an ordered collection of vertices. Implementing the raycasting algorithm to check whether an arbitrary point is contained inside of a polygon.
